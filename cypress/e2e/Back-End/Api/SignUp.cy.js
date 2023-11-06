@@ -12,5 +12,4 @@ it("SignUp_Test_Case" , () => {
                 expect(respone.status).to.eq(200);
                 cy.log(token);
         }) 
-
 })
