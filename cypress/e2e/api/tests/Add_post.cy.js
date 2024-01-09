@@ -1,6 +1,6 @@
 
-import LoginAPI from "../Helpers/LoginAPI";
-import AddPostAPI from "../Helpers/AddPosAPI";
+import LoginAPI from "../endpoints/LoginAPI";
+import AddPostAPI from "../endpoints/AddPosAPI";
 
 describe('login API', ()=>{
     let token;

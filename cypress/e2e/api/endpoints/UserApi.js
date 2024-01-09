@@ -1,7 +1,7 @@
 /// <reference types="cypress"/>
 
 import { faker } from '@faker-js/faker';
-import GetRandomPhone from './GetRandom';
+import GetRandomPhone from '../GetRandom';
 
 class UserApi {
     static SignUp(){

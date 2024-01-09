@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import UserApi from '../Helpers/UserApi';
+import UserApi from '../endpoints/UserApi';
 
 it("SignUp_Test_Case" , () => {
 
